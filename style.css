@@ -32,7 +32,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: linear-gradient(135deg, #1ae399, #0a38a1);
+    background: #f44c1c;
     padding: 17px 10%;
     transition: .3s;
  }
@@ -111,7 +111,7 @@
     min-height: 100vh;
     height: 100%;
     width: 100%;
-    background: linear-gradient(135deg, #1a8fe3, #0a38a1);
+    background: #171717;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -175,7 +175,7 @@
 /* START OF 3 KEYS OF SUCCESS */
 
 .success{
-    background: linear-gradient(135deg, #0a38a1, #1a8fe3);
+    background: #f44c1c;
 }
 
 .items{
@@ -224,7 +224,7 @@
     grid-template-columns: repeat(2, 2fr);
     align-items: center;
     grid-gap: 2rem;
-    background: linear-gradient(135deg, #1a8fe3, #0a38a1);
+    background: #171717;
 }
 .about-img img{
     max-width: 100%;
@@ -255,7 +255,7 @@
 
 /* START OF PORTFOLIO SECTION */
 .portfolio{
-    background: linear-gradient(135deg, #0a38a1, #1a8fe3);
+    background: #f44c1c;
 }
 .heading{
     text-align: center;
@@ -350,7 +350,7 @@
 
 /* START OF SKILLS */
 .skill{
-    background: linear-gradient(135deg, #1a8fe3, #0a38a1);
+    background: #171717;
 }
 .skills-content{
     display: grid;
@@ -401,7 +401,7 @@
 
 /* START OF CONTACT */ 
 .contact{
-    background: linear-gradient(135deg, #0a38a1, #1a8fe3);
+    background: #f44c1c;
 }
 .container{
     background: #8870f3eb;
